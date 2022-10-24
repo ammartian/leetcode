@@ -9,7 +9,7 @@ var runningSum = function (nums) {
     return nums;
 };
 
-//Time complexity = O(n) [big O event ]bcs we go thru every value in our input
+//Time complexity = O(n) [big O event] bcs we go thru every value in our input
 //Space complexity = O(1) [constant] because we do not create any data struc proportional in size with our input
 
 // Link: https://leetcode.com/explore/learn/card/the-leetcode-beginners-guide/692/challenge-problems/4422/
